@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @hahahaday12
 - 👀 I’m interested in html, css, Javascript, react, Python.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Javascript, React.
 - 🏹 I'm working in project which is being uploaded as 'blog'.
 - 🌈 [Check my blog](https://mildang-coding.tistory.com/)
 - 😁 Smile smile smile smile hahahahaahahahahahaahh
