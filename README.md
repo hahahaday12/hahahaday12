@@ -4,7 +4,7 @@
 - 👀 I’m interested in html, css, Javascript, react, Python.
 - 🌱 I’m currently learning Javascript, React.
 - 🏹 I'm working in project which is being uploaded as 'blog'.
-- 🌈 [Check my blog](https://mildang-coding.tistory.com/)
+- 🌈 [Check my blog](https://velog.io/@hahahaday12)
 - 😁 Smile smile smile smile hahahahaahahahahahaahh
 
 <!---
