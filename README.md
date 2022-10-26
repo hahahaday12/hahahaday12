@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Javascript, React.
 - 🏹 I'm working in project which is being uploaded as 'blog'.
 - 🌈 [Check my blog](https://velog.io/@hahahaday12)
-- 😁 Smile smile smile smile hahahahaahahahahahaahh
+
 
 <!---
 hahahaday12/hahahaday12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
